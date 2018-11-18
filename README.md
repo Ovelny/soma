@@ -1,13 +1,3 @@
-[site]: https://rainnerlins.com/
-[twitter]: https://twitter.com/raintek_
-[mit]: https://www.opensource.org/licenses/mit-license.php
-[repo]: https://github.com/rainner/soma-fm-player/
-[demo]: https://rainner.github.io/soma-fm-player/
-[somafm]: https://somafm.com/
-[audioapi]: https://developer.mozilla.org/en-US/docs/Web/API/AudioContext
-[vue]: https://github.com/vuejs/vue
-[node]: https://nodejs.org/
-
 # SomaFM Music Player Web-App
 
 ![SomaFM-Player](https://raw.githubusercontent.com/rainner/soma-fm-player/master/thumb.jpg)
